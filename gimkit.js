@@ -234,7 +234,7 @@
     
    }catch(err){}
   
-   /* Questions Per Second
+    Questions Per Second
    let currentBal;
    if(document.getElementsByTagName("div")[9].innerHTML.indexOf("$") === -1) {
      currentBal = parseInt(document.getElementsByTagName("div")[10].innerHTML.slice(1).split(",").join(""));
@@ -369,7 +369,7 @@
      }
    }catch(err){}
   
-   /* New [WIP] Method For Highlight Answer
+    New [WIP] Method For Highlight Answer
    if(typeof document.getElementsByClassName("fas fa-arrow-down")[0] === "object") {
      let q = document.getElementsByClassName("sc-bwzfXH gbnVhw")[0].childNodes[0].childNodes[0].childNodes[0].innerHTML;
      let a = document.getElementsByClassName("sc-bwzfXH gbnVhw")[2].childNodes[0].childNodes[0].childNodes[0].innerHTML;
