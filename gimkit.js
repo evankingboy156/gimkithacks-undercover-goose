@@ -387,7 +387,7 @@
 
 
 
- // Key events for added features
+ 
  window.onkeydown=function(e){
    if(e.keyCode===hconfig.keybinds.hidemenu){
      if(f[4]===0){
